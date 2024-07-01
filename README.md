@@ -56,7 +56,7 @@ docker build -t hungnk20/demo_motor_bk:0.0.1 .
 ---
 
 1. Dowload weight
-   The weights file includes models for detection, tracking, classification, and image preprocessing. You can download it from [link](https://husteduvn-my.sharepoint.com/:u:/g/personal/quan_dm210710_sis_hust_edu_vn/EY61etcJ69FEijQjLr25jfoBxG9pj5yavCJgDTbO7U6Yww?e=hn5mbh)
+   The weights file includes models for detection, tracking, classification, and image preprocessing. You can download it from [link](https://husteduvn-my.sharepoint.com/:u:/g/personal/quan_dm210710_sis_hust_edu_vn/EY61etcJ69FEijQjLr25jfoBxG9pj5yavCJgDTbO7U6Yww?e=hn5mbh) and put it in the folder 'weight' at the root of the project
 
 2. Run the demo application
 
